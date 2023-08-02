@@ -1,0 +1,54 @@
+body {
+    overflow: hidden; /* Prevent content from overflowing */
+  }
+
+  #play_game{
+    position:absolute;
+    font-size: 47px;
+  }
+
+  @media (min-width: 700px) {
+    .game {
+      position: absolute;
+      top: 50%; /* Position the body 50% from the top of the viewport */
+      left: 50%; /* Position the body 50% from the left of the viewport */
+      transform: translate(-50%, -50%) scale(2.9); /* Center the body and scale its size */
+    }
+  
+    svg {
+      width: 100%; /* Set the width of the SVG to 100% to keep it the same width as its container */
+      height: auto; /* Let the height adjust accordingly to maintain the aspect ratio */
+      object-fit: cover;
+      object-position: 25% 25%;
+      transform-origin: top left; /* Set the origin of the scaling to the top-left corner */
+    }
+  }
+    
+        svg{
+            object-fit: cover;
+            object-position: 25% 25%;
+        }
+
+        html {
+            height:0px;
+        }
+
+    .move_right {
+        transform: translateX(0px)
+    }
+
+    .move_right2 {
+        transform: translateX(15px)
+    }
+
+    .move_right3 {
+        transform: translateX(30px)
+    }
+ 
+    .move_right4 {
+        transform: translateX(45px)
+    }
+
+    .button_push{
+      fill-opacity: 50%;
+    }

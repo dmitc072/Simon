@@ -29,3 +29,8 @@ Built with **HTML, CSS, and JavaScript**, this project demonstrates interactive 
 git clone https://github.com/dmitc072/Simon.git
 cd Simon
 open index.html
+```
+---
+
+## 📄 License
+This project is licensed under the [MIT License](https://github.com/dmitc072/Simon/blob/main/LICENSE).

@@ -1,4 +1,6 @@
 # Simon 🟢
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+![Build: Passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg)  
 
 ## 📌 Overview
 A browser-based recreation of the **classic Simon memory game**.  

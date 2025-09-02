@@ -1,17 +1,31 @@
-# Simon Game (HTML/JS)
+# Simon 🟢
 
-Repeat-the-pattern memory game.
+## 📌 Overview
+A browser-based recreation of the **classic Simon memory game**.  
+Built with **HTML, CSS, and JavaScript**, this project demonstrates interactive game mechanics and DOM manipulation.
 
-## Demo
+---
 
-- Live: https://dmitc072.github.io/Simon
+## ⚙️ Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
 
-## How to Play
+---
 
-Press start and repeat the sequence. Increases difficulty each round.
+## 🚀 Features
+- 🎵 Play the Simon memory sequence  
+- ⏱ Increasing difficulty with each round  
+- 🔊 Sound effects and animations  
+- 📱 Responsive design  
 
-## Getting Started
+---
 
+## 🖥️ Live Demo
+🔗 [Play Simon](https://dmitc072.github.io/Simon/)  
+
+---
+
+## 📂 Installation & Setup
 ```bash
-npx serve .
-```
+git clone https://github.com/dmitc072/Simon.git
+cd Simon
+open index.html
